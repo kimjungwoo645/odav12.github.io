@@ -5,8 +5,8 @@ date: 2014-07-17
 img: P2.gif
 alt: image-alt
 project-date: April 2014
-githyb : https://github.com/odav12/Dungeon
-skills: C#, 유니티
+github : https://github.com/odav12/Dungeon
+skills : C#, 유니티
 category: Web Development
 description: 유니티 UI 학습을 위해 만든 게임 UI
 

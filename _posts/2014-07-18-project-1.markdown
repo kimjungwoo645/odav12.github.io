@@ -5,8 +5,8 @@ date: 2014-07-18
 img: P1.png
 alt: image-alt
 project-date: April 2014
-gitbub : https://github.com/odav12/SuperContact
-skills: C#, 유니티
+github : https://github.com/odav12/SuperContact
+skills : C#, 유니티
 category: Game
 description: 유니티 UI 학습을 위해 만든 연락처
 
