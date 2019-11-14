@@ -5,7 +5,8 @@ date: 2014-07-16
 img: P3.gif
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+github : https://github.com/odav12/JWSwitch
+skills : C#, 유니티
 category: Web Development
-description: 유니티 학습을 위해 만듬 스위치 <a href="https://github.com/odav12/JWSwitch">깃허브</a>
+description: 유니티 학습을 위해 만듬 스위치
 ---

@@ -21,7 +21,7 @@
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>사용언어:
-                                        <strong>{{ post.client }}
+                                        <strong>{{ post.skills }}
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -38,7 +38,7 @@
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button" class="btn btn-default" onclick="location.href='https://github.com/odav12'"><i class="fa fa-bookmark"></i> Github 저장소</button>
+                            <button type="button" class="btn btn-default" onclick="location.href='{{ post.github }}'"><i class="fa fa-bookmark"></i> Github 저장소</button>
                         </div>
                     </div>
                 </div>
