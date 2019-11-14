@@ -3,9 +3,9 @@ title: TeamPKH
 email: odav12@naver.com
 url: https://odav12.github.io
 description: "누구나 감자를 먹을 수 있는 그날까지"
-keywords: "your keywords, separated by commas"
-skills: "게임 프로그래머"
-meta_author: LastName FirstName
+keywords: "유니티, 개발, C#, 게임, 디자인"
+skills: "C#, 유니티"
+meta_author: 김정우
 
 # Google webmaster tools
 google_verify:
@@ -33,30 +33,30 @@ color:
 # Footer settings
 footer:
   copyright: TeamPKH
-  location: Location
+  location: Skils
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url:
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: C#, 유니티
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '유니티로 게임을 개발하는 개발자'
 
 # Build settings
 markdown: kramdown
