@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 유니티 UI 학습을 위해 만든 연락처 <a href="https://odav12.github.com/">Github</a>
+description: 유니티 UI 학습을 위해 만든 연락처 <a href="https://github.com/odav12/SuperContact">Flat Icons</a>
 
 ---
