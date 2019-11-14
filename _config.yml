@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: TeamPKH
+email: odav12@naver.com
+url: https://odav12.github.io
+description: "누구나 감자를 먹을 수 있는 그날까지"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "게임 프로그래머"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: TeamPKH
   location: Location
   social: Around the Web
   credits: Credits
